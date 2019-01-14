@@ -1,3 +1,1 @@
-#TodoApp
-
-Final project for the Frontend Workshop COC
+TodoApp: Final project for the Frontend Workshop COC
