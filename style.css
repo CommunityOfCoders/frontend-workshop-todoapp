@@ -61,6 +61,7 @@ li:nth-of-type(2n) {
 }
 
 span {
+    opacity: 0;
     background: #e70323;
     height: 40px;
     margin-right: 20px;
